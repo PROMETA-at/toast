@@ -1,5 +1,5 @@
 {
-  "name": "@prometa-at/toast",
+  "name": "@prometa/toast",
   "version": "1.0.0",
   "description": "Simple toast web component",
   "type": "module",
